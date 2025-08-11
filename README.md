@@ -1,99 +1,27 @@
-# 👨‍💻 Caique de Oliveira Frassão
+# Olá, eu sou Caique de Oliveira Frassão
 
-*⁠ Desenvolvedor ⁠*
+💻 Desenvolvedor  
+🌍 De São Paulo  
+📚 Aprendendo HTML,CSS,Python,Java,JavaScript,Git,NodeJS
+<br>
+💡 Interesses: Fullstack, Back-End, Front-End 
+<br>
+📫 Como me encontrar: https://www.linkedin.com/in/caique-frassão-a1b245370/
 
-Me chamo Caique de Oliveira Frassão, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio IED. Atualmente, estou cursando Ciências da Computação no Instituto Mauá de Tecnologia. Sou apaixonado por computação e desejo aprender cada dia mais sobre programação.
+## 🛠 Tecnologias e Ferramentas
 
-<p align="left"> 
-    <a href="https://github.com/CaiqueFrassao?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CaiqueFrassao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CaiqueFrassao?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CaiqueFrassao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+![Tecnologias](https://skillicons.dev/icons?i=js,nodejs,py,java,html,css,git,github)
 
----
+## 📊 Estatísticas do GitHub
 
-### 🤖 Linguagens e Tecnologias
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=CaiqueFrassao&show_icons=true&theme=dracula)
 
-<img 
-    align="left"
-    alt="Python" 
-    title="Python"
-    width="30px"
-    height="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## 📌 Projetos em Destaque
 
-<br/>
-<br/>
+- [Projeto 1](link) - Descrição breve
+- [Projeto 2](link) - Descrição breve
+- [Projeto 3](link) - Descrição breve
 
-### 📊 Estatísticas
+## 🌱 Atualmente
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaiqueFrassao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueFrassao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+- Estudando Ciência da Computação - Instituto Mauá de Tecnologia
