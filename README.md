@@ -22,4 +22,4 @@
   
 ## Atualmente
 
-- Estudando Ciência da Computação - Instituto Mauá de Tecnologia
+- Estudando Ciência da Computação - Instituto Mauá de Tecnologia (2º Semestre)
