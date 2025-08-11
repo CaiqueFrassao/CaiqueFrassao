@@ -26,26 +26,26 @@ Me chamo Caique de Oliveira Frassão, tenho 19 anos e sou natural de São Paulo.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left";
-    alt="Python"; 
-    title="Python";
-    width="30px"; 
-    height="30px";
-    style="padding-right: 10px;";
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"; 
+    align="left"
+    alt="Python" 
+    title="Python"
+    width="30px"
+    height="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
-    align="left";
-    alt="Java";
-    title="Java";
-    width="30px";
-    style="padding-right: 10px;"; 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"; 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
-    align="left";
-    alt="HTML";
-    title="HTML"; 
+    align="left"
+    alt="HTML"
+    title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
