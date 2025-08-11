@@ -18,10 +18,8 @@
 
 ## 📌 Projetos em Destaque
 
-- [Projeto 1](link) - Descrição breve
-- [Projeto 2](link) - Descrição breve
-- [Projeto 3](link) - Descrição breve
-
+- Poliedro a Milhão (https://github.com/Lucca-07/PoliedroAMilhao) - Gameficação estilo Show do Milhão para o Colégio Poliedro. Jogo contruido em grupo no Projeto Integrador da Faculdade Instituto Mauá de Tecnologia.
+- 
 ## 🌱 Atualmente
 
 - Estudando Ciência da Computação - Instituto Mauá de Tecnologia
