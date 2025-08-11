@@ -57,7 +57,6 @@ Me chamo Caique de Oliveira Frassão, tenho 19 anos e sou natural de São Paulo.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<!--
 <img 
     align="left" 
     alt="JavaScript" 
@@ -65,7 +64,7 @@ Me chamo Caique de Oliveira Frassão, tenho 19 anos e sou natural de São Paulo.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> -->
+/>
 <img 
     align="left" 
     alt="Git" 
