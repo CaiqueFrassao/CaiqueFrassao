@@ -84,7 +84,7 @@ Me chamo Caique de Oliveira Frassão, tenho 19 anos e sou natural de São Paulo.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=CaiqueFrassao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
